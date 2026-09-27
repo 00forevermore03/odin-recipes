@@ -1,0 +1,43 @@
+/* let's try to make the html a little less boring with a colorful background */
+/* peach bg w orange assets */
+
+body {
+    background-color: peachpuff;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+background-color: white;
+    color: rgb(212, 147, 5);
+    padding: 0px 160px 0px 160px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+h1 {
+background-color: orange;
+    color: white;
+    padding:10px;
+   display: block;
+  text-align: center;
+   border: 3px solid rgb(255, 201, 120);
+   border-radius: 40px;
+}
+
+a {
+    color: white;
+}
+
+li {
+    margin: 2em;
+    background-color: orange;
+    padding: 5px 15px 5px 15px;
+    border-radius: 15px;
+    font-weight: bold;
+       border: 3px solid rgb(255, 201, 120);
+margin-right: 30em;
+margin-left: 30em;
+   border-radius: 40px;
+   text-align: center;
+}
